@@ -73,7 +73,7 @@ Class teaches me how signals, circuits and systems work. Outside class, I build 
 <div align="center">
 
 <a href="https://elivate.in/">
-  <img src="./elivate-logo.png" width="110" alt="Elivate logo" />
+  <img src="./elivate eyewear.jpeg" width="110" alt="Elivate logo" />
 </a>
 
 
